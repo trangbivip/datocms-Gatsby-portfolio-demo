@@ -58,10 +58,10 @@ const TemplateWrapper = ({ children }) => (
           />
           <ul className="sidebar__menu">
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">Trang chủ</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">Về chúng tôi</Link>
             </li>
           </ul>
           <p className="sidebar__social">
